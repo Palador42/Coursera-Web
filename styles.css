@@ -5,13 +5,13 @@
 }
 
 h1 {
-	font-family: Brushstroke, fantasy;
+	font-family: Arial, sans-serif;
 	color: #000000;
 	text-align: center;
 }
 
 body {
-	background-color: #FEF5CA;
+	background-color: #FAFACA;
 
 }
 
@@ -31,10 +31,10 @@ p {
 
 section {
 	border:	1px solid black;
-	background-color: #00FF99;
+	background-color: #11FF22;
 	width: 100%;
 	height: 200px;
-	font-family: Helvetica;
+	font-family: Helvetica, sans-serif;
 	color: black;
 	position: relative;
 	overflow: auto;
@@ -45,13 +45,13 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 5px;
-	background-color: #FFFF00;
+	background-color: #EFEF00;
 }
 
 #beef {
@@ -59,7 +59,7 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
@@ -73,12 +73,12 @@ section {
 	text-align: center;
 	width: 30%;
 	margin-left: 70%;
-	font-family: Georgia,sans-serif;
+	font-family: Helvetica, sans-serif;
 	font-weight: bold;
 	font-size: 125%;
 	margin-bottom: 0;
 	margin-top: 0;
-	background-color: #6495ED;
+	background-color: #5599EE;
 	color: white;
 	padding: 5px;
 }
